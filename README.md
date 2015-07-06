@@ -7,4 +7,5 @@
   - scrollView内部子控件的尺寸不能以scrollView的尺寸为参照
   - scrollView内部的子控件的约束必须完整
 
-具体的说明请戳
+关于添加约束的详解,请戳http://www.jianshu.com/p/258f4efd7a1d
+如果有任何问题可以issue我~
